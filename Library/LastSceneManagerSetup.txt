@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/BloodCells/BloodCells.unity
+- path: Assets/09_BumpedSinusoidalWarp/09_BumpedSinusoidalWarp.unity
   isLoaded: 1
   isActive: 1
